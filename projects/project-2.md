@@ -1,20 +1,17 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/speaker.png
+title: Building My Own Speaker
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-07-28
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Electrical Engineering
+summary: Building a speaker in a HCC summer engineering program.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/speaker.png">
+<img class="ui medium right floated rounded image" src="../images/speaker-inside.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
