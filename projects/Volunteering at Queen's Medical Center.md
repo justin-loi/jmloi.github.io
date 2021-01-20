@@ -16,7 +16,7 @@ summary: Filing and sorting patient records. Performed physical labor tasks as n
 
 ## Overview
 
-The program "Baseball Derby" was developed by me and my brother in my high school class, AP Computer Science Principles, school year 2016-2017. Since this was the first year of Computer Science at Saint Francis School, it was apart of a group of "showcase" programs to peak the interest of the middle school division. It is a game that uses sprite sheets and moves images using a program built by the teacher. The objective of the game is to hit the targets as much as possible within three misses.  
+
 
 ## Role
 
@@ -24,4 +24,4 @@ As a volunteer of the Queen's Medical Center Radiology Department, my role was t
 
 ## The Experience
 
-Overall, this experience was the most valuable in terms of communication. Since I was left to be independent, I needed to figure out how to ask questions efficiently and effectively to avoid delaying my supervisor's work. In addition, since the documents I was working with were patient's records, I had to seperate my work from my personal life. 
+I found this experience to be very valuable, especially in regard to communication. Since I was left to be independent, I needed to figure out how to ask questions efficiently and effectively to avoid delaying my supervisor's work. In addition, I was able to develop a good foundational mindset due to the independence and the nature of the task. Since the documents I was working with were patient's records, I had to effectively seperate my work from my personal life.
