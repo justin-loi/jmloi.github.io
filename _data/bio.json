@@ -6,7 +6,7 @@
     "email": "jmloi@hawaii.edu",
     "phone": "808-392-1289",
     "website": "https://jutin-loi.github.io",
-    "summary": "I am studying for a B.S. in Computer Science and a B.B.A in Accountingthe Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "I am studying for a B.S. in Computer Science and a B.B.A .in Accounting at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": {
       "address": "",
       "postalCode": "96816",
@@ -17,31 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "justin-loi",
+        "url": "https://github.com/justin-loi"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "justin-loi",
+        "url": "https://www.linkedin.com/in/justin-loi/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Web Development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Software Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Cyber Security",
       "keywords": [
       ]
     }
@@ -54,9 +52,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
@@ -64,10 +60,7 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows 10"
       ]
     }
   ],
