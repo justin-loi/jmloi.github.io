@@ -3,6 +3,7 @@ layout: project
 type: project
 image: images/speaker.png
 title: Building My Own Speaker
+permalink: projects/speaker
 # All dates must be YYYY-MM-DD format!
 date: 2018-07-28
 labels:
