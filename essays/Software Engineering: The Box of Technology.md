@@ -9,7 +9,7 @@ labels:
   - Interests
 ---
 
-<img class="ui medium left floated image" src="../images/">
+<img class="ui medium left floated image" src="../images/box.jpg">
 
 ## (Software Engineering.intruiging === Box.intruiging) → TRUE
 
