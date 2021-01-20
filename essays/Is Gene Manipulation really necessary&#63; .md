@@ -1,11 +1,12 @@
 ---
 layout: essay
 type: essay
-title: The difficult things will always be difficult
+title: Is Gene Manipulation really necessary&#63;  
 # All dates must be YYYY-MM-DD format!
 date: 2016-02-06
 labels:
-  - Engineering
+  - Biotechnology
+  - Ethics
 ---
 
 <img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
