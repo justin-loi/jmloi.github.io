@@ -25,7 +25,7 @@ Gene manipulation of our crops only solves health problems in the short-term bec
 
 Even without the advanced technology, there has been a slow genetic manipulation by breeding animals with certain characteristics to develop desired traits. This results with these animals having certain distinguishing features such as a higher jumping ability or keener eyes. This plays a role in the life cycle because it ensures that the animals with the best traits survive and pass it down to their offspring. This also leads to a vast amount of species becoming extinct because they were unable to evolve fast enough to survive.
 
-<img class="ui medium left floated image" src="../images/ROtten Banana.jpg">
+<img class="ui medium left floated image" src="../images/Rotten.jpg">
 
 However, with advanced technology in our grasp, we are able to bring back these extinct species. By removing an intact nuclei from an extinct species and removing the nucleus of the egg from their closest living relative, the possibility of bringing back extinct species is highly probable. For example, in 2003, scientists were able to accomplish this using the bucardo, also known as the Pyrenean ibex. After the extinction of its species due to overhunting, an intact nuclei was recovered from the corpse. It was then implanted into emptied goat eggs, resulting in the birth of an alive bucardo. Even though, it died ten minutes after it was born due to breathing issues. This accomplishment shows the possibility of bringing back extinct animals, but the question becomes, “Is it necessary?” 
 
