@@ -9,7 +9,7 @@ labels:
   - Ethics
 ---
 
-<img class="ui medium left floated image" src="../images/download.jpeg">
+<img class="ui medium left floated image" src="../images/gene.jpeg">
 
 ## How is gene manipuation currently benefiting mankind&#63;
 
@@ -17,7 +17,7 @@ The major influence of gene manipulation is the benefits that some of the techni
 
 Another example of a widely used genetically modified crop is the banana. In the 1950s, the banana faced extinction due to the Panama disease, which is a fungal pathogen that originated in South America. The Panama disease spread through most of the world’s commercial farms, and the extinction of the world’s banana supply seemed imminent. However, scientists genetically modified a species of bananas, the Cavendish, making them immune to the diseases, thus, the bananas avoided extinction. While these outcomes seem to be beneficial, it only solved a symptom of the problem, but not the root cause.
 
-<img class="ui medium left floated image" src="../images/Healthy Banana.jpeg">
+<img class="ui medium left floated image" src="../images/healthy-banana.jpeg">
 
 ## Anything good must have some flaws … Gene manipulation is no exception
 
@@ -25,7 +25,7 @@ Gene manipulation of our crops only solves health problems in the short-term bec
 
 Even without the advanced technology, there has been a slow genetic manipulation by breeding animals with certain characteristics to develop desired traits. This results with these animals having certain distinguishing features such as a higher jumping ability or keener eyes. This plays a role in the life cycle because it ensures that the animals with the best traits survive and pass it down to their offspring. This also leads to a vast amount of species becoming extinct because they were unable to evolve fast enough to survive.
 
-<img class="ui medium left floated image" src="../images/Rotten.jpg">
+<img class="ui medium left floated image" src="../images/rotten-banana.jpg">
 
 However, with advanced technology in our grasp, we are able to bring back these extinct species. By removing an intact nuclei from an extinct species and removing the nucleus of the egg from their closest living relative, the possibility of bringing back extinct species is highly probable. For example, in 2003, scientists were able to accomplish this using the bucardo, also known as the Pyrenean ibex. After the extinction of its species due to overhunting, an intact nuclei was recovered from the corpse. It was then implanted into emptied goat eggs, resulting in the birth of an alive bucardo. Even though, it died ten minutes after it was born due to breathing issues. This accomplishment shows the possibility of bringing back extinct animals, but the question becomes, “Is it necessary?” 
 
@@ -35,7 +35,7 @@ Finally, the biggest concern of genetic manipulation is how it will affect the h
 
 However, there are always consequences to these breakthroughs. The major one is that there is an ongoing moral debate. Since creating humans is said to be God’s work, people of the Catholic community believe gene manipulation is blasphemy because we are acting as God. Not only that, it would increase the disparity between the rich and the poor. This stems from the belief that if doctors manipulate genes to cure diseases, doctors would also have the ability to manipulate other traits. For example, in the future, a doctor would be able to offer services to make their child more muscular and have an abnormally large IQ. As a result, that would give them an unfair advantage in life. Thus the advances of genetic manipulation must wait until we can properly debate these ethical issues and reach a consensus. 
 
-<img class="ui medium left floated image" src="../images/Modified Human.jpg">
+<img class="ui medium left floated image" src="../images/modified-human.jpg">
 
 ## Conclusion
 
