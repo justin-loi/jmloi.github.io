@@ -16,7 +16,7 @@ summary: Filing and sorting patient records. Performed physical labor tasks as n
 
 ## Overview
 
-
+I happened to accidentally find this opportunity when I thought I wanted to be in the medicine industry. This is a yearly volunteering opportunity to let students have a chance to experience the field. While I chose to volunteer at the radiology department, there are numerous departments that one can volunteer for.  
 
 ## Role
 
