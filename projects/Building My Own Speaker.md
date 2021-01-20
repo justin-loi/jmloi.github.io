@@ -8,7 +8,7 @@ date: 2018-07-28
 labels:
   - Electrical Engineering
   - Communication
-summary: Building a speaker in a Honolulu Community College summer engineering program.
+summary: Building a speaker with attending a Honolulu Community College summer engineering program.
 ---
 
 ## Overview
