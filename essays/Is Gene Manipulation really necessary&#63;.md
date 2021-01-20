@@ -9,7 +9,7 @@ labels:
   - Ethics
 ---
 
-<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+<img class="ui tiny right spaced image" src="../images/download.jpeg">
 
 ## How is gene manipuation currently benefiting mankind&#63;
 
