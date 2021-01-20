@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Is Gene Manipulation really necessary&#63;  
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2019-06-27
 labels:
   - Biotechnology
   - Ethics
