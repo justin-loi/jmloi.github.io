@@ -1,17 +1,15 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/queens.png
+title: Volunteering at Queen's Medical Center
+permalink: projects/queens
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-06-07
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Teamwork
+  - Communication
+summary: Filing and sorting patient records. Performed physical labor tasks as needed. 
 ---
 
 <img class="ui medium right floated rounded image" src="../images/queens.png">
