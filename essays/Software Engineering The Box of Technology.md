@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Software Engineering: The Box of Technology
+title: Software Engineering The Box of Technology
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-18
 labels:
