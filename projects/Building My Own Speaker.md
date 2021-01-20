@@ -7,6 +7,7 @@ title: Building My Own Speaker
 date: 2018-07-28
 labels:
   - Electrical Engineering
+  - Communication
 summary: Building a speaker in a Honolulu Community College summer engineering program.
 ---
 
@@ -20,8 +21,7 @@ Some of the projects done in the program were related to either the application 
 
 ## The Experience
 
-From this program, I was able to learn and experience a simplified version of making a game. A lot of communication skills were developed while brainstorming ideas and managing the progress. It also was very enlightening about teamwork as this was my first project not individually done. On top of that, I learned the fundamental concepts about sprites and the process to move them. Finally, it was a good project to assess my fundamental knowledge about C++.  
-
+From this program, I was able to learn and experience engineering from both the technical and practical aspects. Some of the fundamental skills of engineering that overlaps with several aspects of computer science, like soldering and wiring, were a lot more complicated than expected. Also, my communication skills were improved further for the task of designing a product and as I needed quite a lot help.
 
 <img class="ui medium left floated rounded image" src="../images/speaker.png">
 <img class="ui medium right floated rounded image" src="../images/speaker-inside.png">
