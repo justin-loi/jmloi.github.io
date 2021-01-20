@@ -67,9 +67,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -77,9 +77,9 @@
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Spring, 2024)",
+      "studyType": "B.B.A.",
+      "startDate": "2018",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -102,12 +102,12 @@
   ],
   "volunteer": [
     {
-      "organization": "ACM",
+      "organization": "Professional Organization Involvement",
       "website": "",
-      "position": "Member",
+      "position": "",
       "startDate": "2019",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Member of ACM",
       "highlights": [
         "",
         "",
