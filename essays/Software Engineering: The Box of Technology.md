@@ -6,7 +6,7 @@ title: Software Engineering: The Box of Technology
 date: 2021-01-18
 labels:
   - Software Engineering
-  - Interest
+  - Interests
 ---
 
 <img class="ui medium left floated image" src="../images/rtfm.png">
