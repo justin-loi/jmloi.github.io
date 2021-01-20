@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Considering Javascript Just Try It
+title: Considering Javascript&#63;  Just Try It
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-18
 labels:
