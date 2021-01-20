@@ -9,6 +9,7 @@ labels:
   - C++
   - Teamwork
   - Programming
+  - Game Development
 summary: A baseball game that me and my brother developed in high school.
 ---
 
