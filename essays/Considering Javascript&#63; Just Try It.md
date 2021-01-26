@@ -13,7 +13,7 @@ labels:
 
 ## Javascript: Simple but Complex
 
-  Javascript is a fascinating programming language since it contradicted my initial thoughts. Compared to the other programming languages I have seen, Javascript was a relatively simpler and easier language to learn. The syntax and functions are incredibly lax, and numerous resources are available when it is required. For instance, variables and function parameters do not require their respective variable types. Also, shortening functions are possible in Javascript. While this is beneficial, these omissions can become counterproductive as the likelihood of errors increases. Besides, some of the new concepts that I have encountered, such as destructing objects or arrays, were syntactically simple, but that made it so confusing.    
+<p align="justify"> Javascript is a fascinating programming language since it contradicted my initial thoughts. Compared to the other programming languages I have seen, Javascript was a relatively simpler and easier language to learn. The syntax and functions are incredibly lax, and numerous resources are available when it is required. For instance, variables and function parameters do not require their respective variable types. Also, shortening functions are possible in Javascript. While this is beneficial, these omissions can become counterproductive as the likelihood of errors increases. Besides, some of the new concepts that I have encountered, such as destructing objects or arrays, were syntactically simple, but that made it so confusing. </p>    
 
 ## Want to prove your Mastery&#63;
 
