@@ -25,6 +25,6 @@ labels:
 
 <p align="justify"> At the same time, a “not smart” question (https://stackoverflow.com/questions/65917383/integrate-svelte-react-with-matlab-python) appeared as well. This question states that the user has to make a project to do image processing. They explain that they need to use Svelte or React as the front-end and want to do the image processing using Matlab or Python. They end the post asking if it was possible to accomplish their project and recommendations if it was. The issues with this question were the lack of formatting, the number of grammar mistakes, and the lack of research beforehand. This gives the impression that there is zero motivation to do this project, thus spending the time to answer the question would be a waste of time. As a result, there were zero responses to this question.  </p>
 
-Learn by Example, Not by Experiences
+## Learn by Example, Not by Experiences
 
 <p align="justify">  Seeing the examples of “smart” and “not smart” questions on StackOverflow has shown the proper format of an effective question and the results. The “smart” questions will typically have a couple of responses, and the asker solved their problem. On the other hand, the “not smart” questions usually have zero responses. As a result, I have a better idea of how and what my questions should look like if I want a response.  </p>
