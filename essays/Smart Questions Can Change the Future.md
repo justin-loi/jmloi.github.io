@@ -9,7 +9,7 @@ labels:
   - Questions
 ---
 
-<img class="ui medium left floated image" src="../images/Change-Your-Words-And-World.jpgn">
+<img class="ui medium left floated image" src="../images/Change-Your-Words-And-World.jpg">
 
 ## Words Have Power
 
