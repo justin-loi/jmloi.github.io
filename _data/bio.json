@@ -88,16 +88,6 @@
   ],
   "work": [
     {
-      "company": "Nishi Moncho Ramen",
-      "position": "Waiter",
-      "website": "",
-      "startDate": "2015",
-      "endDate": "2019",
-      "summary": "Waiter at family restaurant, Nishi Moncho Ramen, located in Manoa Marketplace. Wait and bus table, process payment transactions, and interacting with customers and kitchen staff.",
-      "highlights": [
-      ]
-    },
-    {
       "company": "Kumon",
       "position": "Educator",
       "website": "https://www.kumon.com/kaimuki/",
@@ -106,16 +96,26 @@
       "summary": "Educator at the Kumon's Kaimuki Branch. Teaching math concepts to children in a suitable way for the various learning styles",
       "highlights": [
       ]
+    },
+    {
+      "company": "Nishi Moncho Ramen",
+      "position": "Waiter",
+      "website": "",
+      "startDate": "2015",
+      "endDate": "2019",
+      "summary": "Waiter at family restaurant, Nishi Moncho Ramen, located in Manoa Marketplace. Wait and bus table, process payment transactions, and interacting with customers and kitchen staff.",
+      "highlights": [
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Queen's Medical Center",
+      "organization": "ACManoa",
       "website": "",
-      "position": "Volunteer",
-      "startDate": "2016",
-      "endDate": "2016",
-      "summary": "Filing and Sorting Patient Records for the Queen's Medical Health Center Radiology Department",
+      "position": "Member",
+      "startDate": "2019",
+      "endDate": "Present",
+      "summary": "Member of ACM at University of Hawaii at Manoa",
       "highlights": [
       ]
     },
@@ -128,17 +128,17 @@
       "summary": "Parent coach for Cross Court Tennis Team during Junior Tennis Team Season. Assisted coach with practice and oversaw players to play properly.",
       "highlights": [
       ]
-    },
+    },    
     {
-      "organization": "ACManoa",
+      "organization": "Queen's Medical Center",
       "website": "",
-      "position": "Member",
-      "startDate": "2019",
-      "endDate": "Present",
-      "summary": "Member of ACM at University of Hawaii at Manoa",
+      "position": "Volunteer",
+      "startDate": "2016",
+      "endDate": "2016",
+      "summary": "Filing and Sorting Patient Records for the Queen's Medical Health Center Radiology Department",
       "highlights": [
       ]
-    }
+    },
   ], 
   "awards": [
     {
