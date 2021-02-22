@@ -22,5 +22,5 @@ labels:
 
 <p align="justify">In my case, at the end of my Semantic UI experience, I was satisfied with the result. To illustrate, the ease of overloading classes makes customizing layouts relatively simple. Also, Semantic UI’s simple design look enhances the charm of the website. Overall, even from the perspective of a programmer with one week of HTML/CSS experience and even less experience of Semantic UI, it is obvious to see that UI Frameworks is a key ingredient to make a presentable website in a relatively short amount of time.</p> 
 
-<img class="ui medium left floated image" src="../images/The Bus Base.jpg">
-<img class="ui medium right floated image" src="../images/Semantic UI Recreation.jpg">
+<img class="ui medium left floated image" src="../images/The Bus Base.png">
+<img class="ui medium right floated image" src="../images/Semantic UI Recreation.png">
