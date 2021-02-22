@@ -11,7 +11,7 @@ labels:
 
 ## Be Mentally Prepared
 
-<img class="ui small left floated image" src="../images/ghosts.jpg">
+<img class="ui small left floated image" src="../images/ghosts.png">
 
 <p align="justify"> To provide the straight truth, UI Frameworks is just as complicated and frustrating as a new programming language. UI Frameworks will be the boogieman in a person’s dreams, especially haunting new users. The learning process is very simple, watching videos to attach new definitions to existing concepts. However, while learning the new additional definitions is not difficult, effectively applying them is a completely different task. It is like playing an elegant song on the piano with no music sheet. It is possible, but a lot of time and headaches are required to meet that goal.</p>
 <p align="justify"> I had the opportunity of learning Semantic UI, a UI Framework that focuses more on versatility than flashy looks. The learning process was relatively easy, which made me think that applying Semantic UI is like putting sprinkles on top of a cupcake. However, I could not have been more wrong. Applying the concepts in an unguided setting can be compared to riding a bike without the training wheel for the first time. I made loads of educated guesses, some will satisfying results, but others drained my brain until it was fried.</p>
