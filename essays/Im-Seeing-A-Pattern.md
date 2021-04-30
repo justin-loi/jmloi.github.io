@@ -25,8 +25,9 @@ labels:
 <p align="justify"> The most prevalent use of a specific design pattern in my code was the singleton pattern. During my sophomore year in high school, my brother and I developed a baseball game using C++. We created, imported, and exported classes of the various objects. In addition, I am currently using a singleton pattern in my ICS 314: Software Engineering final project. By creating and exporting an instance of object collections, the data can be displayed or edited. Both of these are instances of the singleton pattern. </p>    
 
   <img class="ui medium centered image" src="../images/singleton-pattern.png"> 
-  <img class="ui medium centered image" src="../images/mvc-pattern.png">
 
   <p align="justify"> The primary pattern used in my ICS 314: Software Engineering final project is the model view controller pattern. There are four components of the model view controller pattern: model, view, controller, and user. The Javascript library, React, manages what the user sees and the database contains by handling the view and controller aspect of the pattern inside the same file. Then MongoDB serves as the model that holds the data. The device used and the subsequent webpage completes the system and allows the user to use and edit the data.  </p>    
+
+  <img class="ui medium centered image" src="../images/mvc-pattern.png">
 
 <p align="justify"> In software engineering, understanding and implementing design patterns is crucial. The fact that I was using design patterns without knowing what the word meant demonstrates its necessity. After a little bit of research, it is evident that there are many different types of design patterns. To make the creative process be more efficient and timely, it is necessary to acknowledge and implement other design patterns when it is best suited. </p>    
