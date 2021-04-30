@@ -15,7 +15,7 @@ labels:
 
 <p align="justify"> To understand design patterns more than a vague definition, an analogy about art would be the best. The primary purpose of art is to create a tangible product that conveys something to its audience. However, there are a variety of methods available to an artist: pencils, watercolors, or recycled goods. Each option has its advantages and disadvantages specific to your project. Therefore, nothing is off the table, so the choice depends on your mentality. Design patterns create the foundation so you, the software engineer, may produce the best product with your unique spin.  </p>    
 
-<img class="ui medium left floated image" src="../images/recycle-table.png">
+<img class="ui medium left floated image" src="../images/recycle-table.jpeg">
 
 <img class="ui medium right floated image" src="../images/paint.png">
 
