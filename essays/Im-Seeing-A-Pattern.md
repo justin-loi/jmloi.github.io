@@ -13,12 +13,11 @@ labels:
 
 <p align="justify"> When you want to create anything, the easiest part is identifying the desired functionality since there is an intended purpose. Unfortunately, there is more than one step to the creative process, and all of the intermediate steps are more challenging. In computer science, the first step of the creative process is choosing a design pattern, which is a general approach to solve a variety of problems.  </p>    
 
-<p align="justify"> To understand design patterns more than a vague definition, an analogy about art would be the best. The primary purpose of art is to create a tangible product that conveys something to its audience. However, there are a variety of methods available to an artist: pencils, watercolors, or recycled goods. Each option has its advantages and disadvantages specific to your project. Therefore, nothing is off the table, so the choice depends on your mentality. Design patterns create the foundation so you, the software engineer, may produce the best product with your unique spin.  </p>    
+<img class="ui medium left floated image" src="../images/recycle-table.jpeg">
 
-<p>
-  <img class="ui medium left floated image" src="../images/recycle-table.jpeg">
-  <img class="ui medium right floated image" src="../images/paint.jpeg">
-</p>
+<img class="ui medium right floated image" src="../images/paint.jpeg">
+
+<p align="justify"> To understand design patterns more than a vague definition, an analogy about art would be the best. The primary purpose of art is to create a tangible product that conveys something to its audience. However, there are a variety of methods available to an artist: pencils, watercolors, or recycled goods. Each option has its advantages and disadvantages specific to your project. Therefore, nothing is off the table, so the choice depends on your mentality. Design patterns create the foundation so you, the software engineer, may produce the best product with your unique spin.  </p>    
 
 ## Oh! That was a Pattern
 
