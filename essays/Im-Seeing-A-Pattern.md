@@ -17,7 +17,7 @@ labels:
 
 <img class="ui medium left floated image" src="../images/recycle-table.jpeg">
 
-<img class="ui medium right floated image" src="../images/paint.png">
+<img class="ui medium right floated image" src="../images/paint.jpeg">
 
 ## Oh! That was a Pattern
 
