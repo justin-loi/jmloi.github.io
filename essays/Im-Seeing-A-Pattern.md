@@ -32,7 +32,10 @@ labels:
   <img class="ui medium middle floated image" src="../images/mvc-pattern.png">
 </p>
 
-<p align="justify"> The primary pattern used in my ICS 314: Software Engineering final project is the model view controller pattern. There are four components of the model view controller pattern: model, view, controller, and user. The Javascript library, React, manages what the user sees and the database contains by handling the view and controller aspect of the pattern inside the same file. Then MongoDB serves as the model that holds the data. The device used and the subsequent webpage completes the system and allows the user to use and edit the data.  </p>    
+<div>
+  <p align="justify"> The primary pattern used in my ICS 314: Software Engineering final project is the model view controller pattern. There are four components of the model view controller pattern: model, view, controller, and user. The Javascript library, React, manages what the user sees and the database contains by handling the view and controller aspect of the pattern inside the same file. Then MongoDB serves as the model that holds the data. The device used and the subsequent webpage completes the system and allows the user to use and edit the data.  </p>    
+</div>
+
 
 
 
