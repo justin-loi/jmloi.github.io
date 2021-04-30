@@ -12,9 +12,9 @@ labels:
 ## Reduce, Reuse, ReCycle
   <p align="justify"> When you want to create anything, the easiest part is identifying the desired functionality since there is an intended purpose. Unfortunately, there is more than one step to the creative process, and all of the intermediate steps are more challenging. In computer science, the first step of the creative process is choosing a design pattern, which is a general approach to solve a variety of problems.  </p>    
 
-  <img class="ui medium left floated image" src="../images/recycle-table.jpeg">
+  <img class="ui medium left image" src="../images/recycle-table.jpeg">
   
-  <img class="ui medium right floated image" src="../images/paint.jpeg">
+  <img class="ui medium right image" src="../images/paint.jpeg">
 
   <p align="justify"> To understand design patterns more than a vague definition, an analogy about art would be the best. The primary purpose of art is to create a tangible product that conveys something to its audience. However, there are a variety of methods available to an artist: pencils, watercolors, or recycled goods. Each option has its advantages and disadvantages specific to your project. Therefore, nothing is off the table, so the choice depends on your mentality. Design patterns create the foundation so you, the software engineer, may produce the best product with your unique spin.  </p>    
 
@@ -31,3 +31,5 @@ labels:
   <img class="ui medium centered image" src="../images/mvc-pattern.png">
 
 <p align="justify"> In software engineering, understanding and implementing design patterns is crucial. The fact that I was using design patterns without knowing what the word meant demonstrates its necessity. After a little bit of research, it is evident that there are many different types of design patterns. To make the creative process be more efficient and timely, it is necessary to acknowledge and implement other design patterns when it is best suited. </p>    
+
+<div 
