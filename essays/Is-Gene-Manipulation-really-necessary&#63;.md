@@ -11,7 +11,7 @@ labels:
 
 <img class="ui medium left floated image" src="../images/gene.jpeg">
 
-## How is gene manipuation currently benefiting mankind&#63;
+## How is gene manipulation currently benefiting mankind&#63;
 
 <p align="justify">The major influence of gene manipulation is the benefits that some of the techniques may have. For example, corn is one of the most widely harvested genetically modified crops. By genetically modifying corn, scientists can create strains that contain more nutritional value. Also, compared to their ancestors, the size and number of kernels are exponentially bigger due to modifying in its genome. Not only that, since Lepidoptera larvae and caterpillars are prominent pests, scientists have genetically modified corn to kill them after ingesting a certain amount of protein. This is to lower the amount of pesticides needed to be sprayed. </p>
 
