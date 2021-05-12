@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/bowedin.png
+image: images/bowedin-cover.png
 title: BowedIn
 permalink: projects/bowed-in
 # All dates must be YYYY-MM-DD format!
