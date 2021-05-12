@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/bowedin.png
+image: images/bowedin-cover.png
 title: BowedIn
 permalink: projects/bowed-in
 # All dates must be YYYY-MM-DD format!
@@ -26,8 +26,7 @@ summary: A web application developed by my team and I to connect students with c
 
 ## The Experience
 
-
-
-To see BowedIn's team page, <a href="https://github.com/bowed-in/bowed-in.github.io" target="_blank" rel="noreferrer">click here</a>
+To see BowedIn' source code, <a href="https://github.com/bowed-in/bowed-in" target="_blank" rel="noreferrer">click here</a>
 
 To see BowedIn' source code, <a href="https://github.com/bowed-in/bowed-in" target="_blank" rel="noreferrer">click here</a>
+
