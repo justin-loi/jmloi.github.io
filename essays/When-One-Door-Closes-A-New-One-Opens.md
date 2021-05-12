@@ -8,8 +8,6 @@ labels:
   - Software Engineering
 ---
 
-## When One Door Closes, A New One Opens
-
 <p align="justify"> As this semester comes to a close, I have come to find out that I have learned much more than my original expectation of the web application creation process. By going through a new module each week, my foundation has gradually stabilized. While I am nowhere near the pinnacle of any of these topics, my understanding is deep enough that I am more than just a lost lamb in the darkness. The topics I have learned the most is frameworks and coding standards.  </p>    
 
 ## Frameworks: The Template of Software Engineering
