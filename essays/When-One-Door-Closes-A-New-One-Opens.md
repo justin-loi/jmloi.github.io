@@ -12,6 +12,11 @@ labels:
 
 ## Frameworks: The Template of Software Engineering
 
+<div class="ui medium centered images">
+  <img class="ui image" src="../images/semantic-dropdown.jpeg">
+  <img class="ui image" src="../images/default-dropdown.png">
+</div>
+
 <p align="justify">The first naive thought when first learning about frameworks is “Can’t you do the same using raw HTML and CSS?”. The short answer is yes, but that is something very few professional developers do. Why? Frameworks are most valuable for consolidating the various required HTML and CSS to make an organized code in a relatively shorter amount of time. To illustrate, a couple of years ago, when I attempted to create a dropdown menu. In the end, it took hours to create my first dropdown menu using pure HTML and CSS. To make matters worse, it looked worse than a simple dropdown menu created in a matter of minutes in the Semantic UI Framework. Then to put the final nail in the coffin, I found out the code was so convoluted that I was unable to replicate it again. Overall, no matter the project, big or small, using frameworks will organize code and save time. </p>
 <p align="justify">Within the field of software engineering, the relevance of frameworks is associated with efficiency. By the simple act of not using a framework, the minimum required time to build a project would increase exponentially. No matter which focus of software engineering, whether it is web development or something else, I will be on the lookout for frameworks that will help me complete my tasks more efficiently. </p>
 <p align="justify">Outside of the software engineering niche, frameworks specifically do not have much value. However, the broad concept that frameworks represent, programs with the purpose to improve efficiency for the various tasks, is applicable throughout the various fields. In almost every field, technology has advanced enough that programs that aid in efficiency are available. The primary takeaway is to be aware of these resources and properly utilize them at the appropriate time. </p>
