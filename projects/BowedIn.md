@@ -26,7 +26,7 @@ summary: A web application developed by my team and I to connect students with c
 
 ## The Experience
 
-To see BowedIn' source code, <a href="https://github.com/bowed-in/bowed-in" target="_blank" rel="noreferrer">click here</a>
+To see BowedIn' project page, <a href="https://bowed-in.github.io/" target="_blank" rel="noreferrer">click here</a>
 
 To see BowedIn' source code, <a href="https://github.com/bowed-in/bowed-in" target="_blank" rel="noreferrer">click here</a>
 
